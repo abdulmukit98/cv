@@ -1,2 +1,2 @@
 # cv
-[Github Pages](https://github.com/abdulmukit98/cv) <br>
+[Github Pages](https://abdulmukit98.github.io/cv/) <br>
